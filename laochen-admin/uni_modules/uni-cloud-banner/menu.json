@@ -1,0 +1,8 @@
+[
+    {
+        "menu_id": "uni-cloud-banner",
+        "name": "轮播图",
+		"icon": "uni-icons-images",
+        "url": "uni_modules/uni-cloud-banner/pages/uni-cloud-banner/list"
+    }
+]

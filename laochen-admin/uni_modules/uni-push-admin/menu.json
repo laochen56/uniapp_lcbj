@@ -1,0 +1,36 @@
+[{
+	"menu_id": "uni-push-admin",
+	"name": "推送管理",
+	"icon": "uni-icons-paperplane",
+	"sort": 4000,
+	"parent_id": "",
+	"permission": [],
+	"enable": true
+},{
+	"menu_id": "uni-push-send",
+	"name": "消息推送",
+	"icon": "uni-icons-chat-filled",
+	"url": "/uni_modules/uni-push-admin/pages/sendMessage/sendMessage",
+	"sort": 4010,
+	"parent_id": "uni-push-admin",
+	"permission": [],
+	"enable": true
+},{
+	"menu_id": "uni-push-log",
+	"name": "推送统计",
+	"icon": "admin-icons-tongji",
+	"url": "/uni_modules/uni-push-admin/pages/log/list",
+	"sort": 4010,
+	"parent_id": "uni-push-admin",
+	"permission": [],
+	"enable": true
+},{
+	"menu_id": "uni-push-extra",
+	"name": "其他功能",
+	"icon": "uni-icons-more-filled",
+	"url": "/uni_modules/uni-push-admin/pages/extra/extra",
+	"sort": 4010,
+	"parent_id": "uni-push-admin",
+	"permission": [],
+	"enable": true
+}]

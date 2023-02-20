@@ -1,0 +1,9 @@
+{
+  "name": "uni-push-admin-co",
+  "dependencies": {
+    "uni-id-common": "file:../../../../uni-id-common/uniCloud/cloudfunctions/common/uni-id-common"
+  },
+  "extensions": {
+    "uni-cloud-push": {}
+  }
+}
